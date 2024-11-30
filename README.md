@@ -1,3 +1,6 @@
+Link to download my app:
+https://expo.dev/accounts/mdahal03/projects/todo-app/builds/e94594cc-a862-4a0c-89b3-d8723e2a3648
+
 # Welcome to Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
